@@ -60,7 +60,7 @@ if (isset($_POST["cari"])) {
          </svg> Tambah Data </a>
          </button>
       </div>
-    </div>
+    </div>  
      
     <!-- Form Dasboar -->
     <form action="" method="post" enctype="multipart/form-data">
